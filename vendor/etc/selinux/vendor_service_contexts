@@ -1,0 +1,17 @@
+#line 1 "device/hmd/T99651/sepolicy/service_contexts"
+# ==============================================
+# MTK Policy Rule
+# ==============================================
+# System Server Services
+# 2021-12-15:leitao: [HOPERUN][Wolverine][WVR-12192][FSW-026] Face unlock.
+com.wos.android.face.IFaceDaemon                u:object_r:face_daemon_service:s0
+wos.face                                        u:object_r:wos_face_service:s0
+#line 1 "device/mediatek/sepolicy/bsp/non_plat/service_contexts"
+# ==============================================
+# MTK Policy Rule
+# ==============================================
+
+android.hardware.neuralnetworks.IDevice/mtk-gpu_shim    u:object_r:hal_neuralnetworks_service:s0
+android.hardware.neuralnetworks.IDevice/mtk-dsp_shim    u:object_r:hal_neuralnetworks_service:s0
+android.hardware.neuralnetworks.IDevice/mtk-mdla_shim   u:object_r:hal_neuralnetworks_service:s0
+android.hardware.neuralnetworks.IDevice/mtk-neuron_shim u:object_r:hal_neuralnetworks_service:s0
