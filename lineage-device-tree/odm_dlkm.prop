@@ -1,0 +1,5 @@
+persist.radio.imei_ver=37
+persist.sys.usb.config=none
+ro.build.display.wtid=SW_T99651AA2_V210_M10_NF_NOKIA_Iris_USR_MP
+ro.product.carriercustomization.version=202204190940
+ro.vendor.build.display.wtid=SW_T99651AA2_V210_M10_NF_NOKIA_Iris_USR_MP

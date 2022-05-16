@@ -1,0 +1,18 @@
+## full_T99651-user 12 SP1A.210812.016 00WW_3_210 release-keys
+- Manufacturer: hmd global
+- Platform: mt6765
+- Codename: WVR_sprout
+- Brand: Nokia
+- Flavor: full_T99651-user
+- Release Version: 12
+- Id: SP1A.210812.016
+- Incremental: 00WW_3_210
+- Tags: release-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: true
+- Locale: en-GB
+- Screen Density: undefined
+- Fingerprint: Nokia/Wolverine_00WW/WVR_sprout:12/SP1A.210812.016/00WW_3_210:user/release-keys
+- OTA version: 
+- Branch: full_T99651-user-12-SP1A.210812.016-00WW_3_210-release-keys
+- Repo: nokia_wvr_sprout_dump
